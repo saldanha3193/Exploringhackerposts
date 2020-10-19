@@ -1,3 +1,5 @@
 # Exploringhackerposts
-Guided Project Exploring hacker news posts
-This is a Dataquest project on hacker news posts from the data analyst in python track.
+We'll compare these two types of posts to determine the following:
+
+-Do Ask HN or Show HN receive more comments on average?
+-Do posts created at a certain time receive more comments on average?
